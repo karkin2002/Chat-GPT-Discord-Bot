@@ -22,6 +22,6 @@ These features only partially work, with the bot easily being able to be taken o
 
 ## License
 
-This codebase uses ChatGPT by OpenAI. This is not affiliated with OpenAI in any way.
+This project uses ChatGPT by OpenAI. This is not affiliated with OpenAI in any way.
 
 [MIT](https://choosealicense.com/licenses/mit/)
