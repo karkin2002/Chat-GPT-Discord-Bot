@@ -18,7 +18,7 @@ These features only partially work, with the bot easily being able to be taken o
 
 2. Replace <session_token> and all the entries in the config file with the following details: https://github.com/acheong08/ChatGPT/wiki/Setup
 
-3. Run the script using Python "GPT Discord Bot.py"
+3. Run the script using Python "GPT_Discord_Bot.py"
 
 ## License
 
